@@ -67,5 +67,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - Thanks to all the contributors who have helped make this project better
 - All users who have provided valuable feedback
-
----
