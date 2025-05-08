@@ -1,12 +1,10 @@
-Based on your screenshot, I'll create an SEO-friendly GitHub README for your HEIC to JPG Converter web application.
-
 # HEIC to JPG Converter
 
 **Convert HEIC/HEIF images to JPG or WEBP format directly in your browser - no uploads, 100% private, and completely free.**
 
 ## 🚀 Live Demo
 
-[Try HEIC to JPG Converter]([https://heictojpgpro.com/](https://heictojpgpro.com/)
+[HEIC to JPG](https://heictojpgpro.com/)
 
 ![HEIC to JPG Converter Screenshot](screenshot.png)
 
